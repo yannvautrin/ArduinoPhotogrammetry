@@ -8,7 +8,7 @@
 // Then before each session the phone should be nearby, should be receiving over BT and the CameraPro app should be open in the foreground.
 
 // Adapted by Yann Vautrin for Nikon 10 pin remote shutter release
-// Thanks to aarg and Jackson from Arduino user forum for helping with the code!
+// Thanks to aarg and J-M-L from Arduino user forum for helping with the code!
 
 // Nikon D300 10 pin shutter release connector map (might work with other Nikon cameras too)
 // pin 1  RX Data TTL Level 1
